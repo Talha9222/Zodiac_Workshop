@@ -112,3 +112,8 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Android signing keystore: keep out of version control
+/[Kk]eystore/
+*.keystore
+*.jks
